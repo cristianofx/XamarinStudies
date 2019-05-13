@@ -14,9 +14,7 @@
                IsPassword="True"/>
         <Button x:Name="loginButton" Text="Log in"
                 Margin="80,50,80,0"
-                Clicked="LoginButton_Clicked"
-                BackgroundColor="Green"
-                TextColor="White"/>
+                Clicked="LoginButton_Clicked"/>
 
     </StackLayout>
 
